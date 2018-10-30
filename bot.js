@@ -40,4 +40,4 @@ bot.on("message", async message => {
   if(commandfile) commandfile.run(bot,message,args);
 })
 
-bot.login('BOT_TOKEN')
+bot.login('NDk3NTE1ODA5MDE5NTI3MTY4.DpgaJg.puafpWnEtrVvVjbO3tWD0U25vTw')
